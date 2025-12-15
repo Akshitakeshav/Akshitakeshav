@@ -1,4 +1,4 @@
-### **Hello, I'm Abhijit!** 👋 <!-- bold + italic -->
+### **Hello, I'm Akshita!** 👋 <!-- bold + italic -->
 ---
 💻 About Me
  ---
