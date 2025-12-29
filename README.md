@@ -4,7 +4,7 @@
  ---
 I am Akshita, currently pursuing my B.Tech in Computer Science and Engineering from TIEM, Kolkata, and I am a 2nd-year student. I have skills in JavaScript, Python, HTML, CSS, and C programming, and I work with the Node.js framework. I am comfortable using tools like VS Code, Git, GitHub, and operating systems including Windows and Linux.
 
-I have a strong interest and solid knowledge in backend development, which is my core strength. Currently, I am learning frontend technologies to broaden my skill set with the goal of becoming a full-stack developer. My personality emphasizes effective time management, teamwork, and continuous learning. I am always curious, eager to improve, and adaptable to new situations. I enjoy debugging and finding creative solutions to build better user experiences.
+I have a strong interest and solid knowledge in frontend development, which is my core strength. Currently, I am learning frontend technologies to broaden my skill set with the goal of becoming a full-stack developer. My personality emphasizes effective time management, teamwork, and continuous learning. I am always curious, eager to improve, and adaptable to new situations. I enjoy debugging and finding creative solutions to build better user experiences.
 
 If you’re interested in tech or would like to collaborate on a project, feel free to connect! 🚀
 
